@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MarkCarbonell98/lavaQuest3D#readme",
   "dependencies": {
-    "three": "^0.112.1"
+    "three": "^0.125.0"
   }
 }
